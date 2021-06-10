@@ -1,0 +1,98 @@
+
+.container-1 {
+ border: 3px solid black;
+ position: relative;
+    padding-right: 20px;
+	padding-top:20px;
+	overflow: auto }
+	
+#box {	background-color: black; }
+
+.aquario {
+	background-image:url("https://i.pinimg.com/originals/c5/a9/a7/c5a9a7294bf985fc9622e3bd264ad3e6.jpg");
+	color: white;
+	padding:20px;
+	letter-spacing:3px;
+	width:70%;
+	float: left;
+	height:450px;
+	margin:20px;
+	position:relative;
+	 z-index: -10;
+	 font-family:consolas;
+	 font-size:15px;
+	 border: 5px solid #717092;
+}
+
+.bases {
+	
+	padding: 30px;
+
+	overflow: auto;
+	float: right;
+	width:40%;
+	
+	text-align: center;
+	
+	}
+
+#olhos {
+	background-color: green;
+	width:30%;
+	float: left;
+	text-align: center;
+	margin:20px;
+	padding:20px;
+	
+	position:relative;
+	overflow: auto;
+}
+
+.nariz {
+	background-color: blue;
+	width:15%;
+	float: left;
+	text-align: center;
+	margin:20px;
+	padding:20px;
+	
+	position:relative;
+	overflow: auto;
+}
+
+.teste {
+	background-color: pink;
+	width: 20%;
+	float:right;
+	position:relative;
+	margin:20px;
+font-color:white;
+	padding:20px;
+	
+}
+
+
+.tuto {
+	background-image: url("https://www.publicdomainpictures.net/pictures/10000/nahled/1453-12531598160IYy.jpg");
+	font-family: consolas;
+	font-size:18px;
+	width: 20%;
+	float:right;
+	position:relative;
+	margin:20px;
+
+	padding:20px;
+	
+}
+
+.peixes
+{ padding: 20px;
+width: 20%;
+float:right; 
+margin:20px;
+position:relative; 
+height:20px;}
+
+h2 { font-family: consolas;
+font-size:20px;
+font-weight: bold; }
